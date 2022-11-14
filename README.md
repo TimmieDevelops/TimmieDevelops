@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Discord Here Tag TimmieDevelops#2325
 -->
 
-![Discord](https://discord.c99.nl/widget/theme-2/844680229506514974.png)
+![Discord]([https://discord.c99.nl/widget/theme-2/844680229506514974.png](https://lanyard.cnrad.dev/api/TimmieDevelops#2325))
