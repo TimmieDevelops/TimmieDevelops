@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Discord Here Tag TimmieDevelops#2325
 -->
 
-[![Discord Presence]([[https://lanyard.cnrad.dev/api/TimmieDevelops#2325](https://discord.c99.nl/widget/theme-3/844680229506514974.png)])
+[![Discord Presence]("https://discord.c99.nl/widget/theme-3/844680229506514974.png")
