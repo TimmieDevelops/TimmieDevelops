@@ -1,7 +1,7 @@
 # Hello, I'm TimmieDevelops 👋
 
 ## About Me
-I'm a passionate developer with experience in various programming languages. I enjoy working on challenging projects and continuously learning new technologies. Here are some of the languages I work with:
+I'm a passionate developer, currently 14 years old, with experience in various programming languages. I enjoy working on challenging projects and continuously learning new technologies. Here are some of the languages I work with:
 
 - **Node.js**: Building scalable server-side applications.
 - **Python**: Scripting, data analysis, and web development.
@@ -18,10 +18,10 @@ Feel free to reach out to me on Discord or Twitter. I'm always open to discussin
 Here are some of the projects I've worked on:
 
 ### Project Night
-**Description**: A Fortnite Gameserver I been working on (still progress)
+**Description**: A Fortnite Gameserver I've been working on (still in progress).
 
 ### RealityOG
-**Description**: (progress nothing to say in here :/)
+**Description**: (Progressing, nothing to say here yet :/).
 
 ## Skills
 - **Languages**: Node.js, Python, C++, C#
@@ -37,4 +37,3 @@ Here are some of the projects I've worked on:
 ---
 
 Thank you for visiting my profile. Let's connect and create amazing things together!
-
