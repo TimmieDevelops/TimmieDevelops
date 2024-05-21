@@ -6,7 +6,7 @@ I'm a passionate developer, currently 14 years old, with experience in various p
 - **Node.js**: Building scalable server-side applications.
 - **Python**: Scripting, data analysis, and web development.
 - **C++**: High-performance applications and system programming.
-- **C#**: Developing desktop applications and games using Unity.
+- **C#**: Developing desktop applications.
 - **Lua**: Scripting for Roblox game development.
 
 ## Get In Touch
