@@ -7,6 +7,7 @@ I'm a passionate developer, currently 14 years old, with experience in various p
 - **Python**: Scripting, data analysis, and web development.
 - **C++**: High-performance applications and system programming.
 - **C#**: Developing desktop applications and games using Unity.
+- **Lua**: Scripting for Roblox game development.
 
 ## Get In Touch
 Feel free to reach out to me on Discord or Twitter. I'm always open to discussing new projects, collaborations, or just chatting about tech.
@@ -23,8 +24,11 @@ Here are some of the projects I've worked on:
 ### RealityOG
 **Description**: (Progressing, nothing to say here yet :/).
 
+### Roblox Game
+**Description**: A Roblox game I've developed using Lua (details to be added).
+
 ## Skills
-- **Languages**: Node.js, Python, C++, C#
+- **Languages**: Node.js, Python, C++, C#, Lua
 - **Frameworks/Libraries**: Express, Django, React, .NET
 - **Tools**: Git, Docker, Kubernetes, CI/CD
 
