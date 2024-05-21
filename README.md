@@ -25,9 +25,6 @@ Here are some of the projects I've worked on:
 ### RealityOG
 **Description**: (Progressing, nothing to say here yet :/).
 
-### Roblox Game
-**Description**: A Roblox game I've developed using Lua (details to be added).
-
 ## Skills
 - **Languages**: Node.js, Python, C++, C#, Lua
 - **Frameworks/Libraries**: Express, Django, React, .NET
