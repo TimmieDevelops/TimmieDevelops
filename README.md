@@ -1,13 +1,40 @@
-### Hi there 👋
+# Hello, I'm TimmieDevelops 👋
 
-<!--
-**TimmieDevelops/TimmieDevelops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a passionate developer with experience in various programming languages. I enjoy working on challenging projects and continuously learning new technologies. Here are some of the languages I work with:
 
-Here are some ideas to get you started:
+- **Node.js**: Building scalable server-side applications.
+- **Python**: Scripting, data analysis, and web development.
+- **C++**: High-performance applications and system programming.
+- **C#**: Developing desktop applications and games using Unity.
 
-- 🔭 I’m currently working on Project Alo, TimFN, Project Tilted
-- 🌱 I’m currently learning C++ C# Node.js Python
-- 📫 How to reach me: Discord Here Tag TimmieDevelops#2325
--->
+## Get In Touch
+Feel free to reach out to me on Discord or Twitter. I'm always open to discussing new projects, collaborations, or just chatting about tech.
 
-[![Discord Presence]("https://discord.c99.nl/widget/theme-3/844680229506514974.png")
+- **Discord**: TimmieDevelops
+- **Twitter**: TimmieFlunder4
+
+## My Projects
+Here are some of the projects I've worked on:
+
+### Project Night
+**Description**: A Fortnite Gameserver I been working on (still progress)
+
+### RealityOG
+**Description**: (progress nothing to say in here :/)
+
+## Skills
+- **Languages**: Node.js, Python, C++, C#
+- **Frameworks/Libraries**: Express, Django, React, .NET
+- **Tools**: Git, Docker, Kubernetes, CI/CD
+
+## Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TimmieDevelops&show_icons=true&theme=dark)
+
+## Contributions
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimmieDevelops&layout=compact&theme=dark)
+
+---
+
+Thank you for visiting my profile. Let's connect and create amazing things together!
+
