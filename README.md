@@ -37,5 +37,3 @@ Here are some of the projects I've worked on:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimmieDevelops&layout=compact&theme=dark)
 
 ---
-
-Thank you for visiting my profile. Let's connect and create amazing things together!
