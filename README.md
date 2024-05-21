@@ -13,6 +13,7 @@ I'm a passionate developer, currently 14 years old, with experience in various p
 Feel free to reach out to me on Discord or Twitter. I'm always open to discussing new projects, collaborations, or just chatting about tech.
 
 - **Discord**: TimmieDevelops
+- ![Discord](https://discord.c99.nl/widget/theme-3/844680229506514974.png)
 - **Twitter**: TimmieFlunder4
 
 ## My Projects
