@@ -3,11 +3,11 @@
 ## About Me
 I'm a passionate developer, currently 14 years old, with experience in various programming languages. I enjoy working on challenging projects and continuously learning new technologies. Here are some of the languages I work with:
 
-- **Node.js**: Building scalable server-side applications.
-- **Python**: Scripting, data analysis, and web development.
-- **C++**: High-performance applications and system programming.
-- **C#**: Developing desktop applications.
-- **Lua**: Scripting for Roblox game development.
+- **Node.js**
+- **Python**
+- **C++**
+- **C#**
+- **Lua**
 
 ## Get In Touch
 Feel free to reach out to me on Discord or Twitter. I'm always open to discussing new projects, collaborations, or just chatting about tech.
